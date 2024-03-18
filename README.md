@@ -8,6 +8,9 @@ Desenvolver estratégias eficazes de adaptação às mudanças nos padrões de d
 
 Quando as métricas de avaliação do modelo caem abaixo de um nível aceitável, é necessário re-treinar o modelo com novos inputs dos usuários e, se possível, com dados de um dataset mais atualizado, refletindo as informações mais recentes. Além disso, ajustar os pesos para dar mais importância às informações recentes pode ser uma estratégia eficiente para mitigar o concept drift.
 
+![alt text](image.png)
+Figura 1: Fluxo que poderia sem implementado em nosso projeto 
+
 ## Conclusão
 Resumindo, a gestão do concept drift em sistemas de Machine Learning exige uma abordagem dinâmica e proativa. Monitorar continuamente o desempenho do sistema, detectar mudanças de padrão de forma eficiente e ajustar o modelo adequadamente são etapas cruciais para manter a acurácia e a relevância do sistema. Por meio dessas estratégias, é possível assegurar que o sistema conversacional se adapte às mudanças contínuas no ambiente e nas preferências dos usuários, mantendo sua eficácia e precisão ao longo do tempo.
 
